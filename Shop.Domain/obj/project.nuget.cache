@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "XBuBoomMJfvuqHxvRjgcwwlDq08X9vl3lWz2WSbVN9tHEpMK77HdIpNoZGJPPv/a9B+PCLphbzQkrizw7UEXAQ==",
+  "dgSpecHash": "a9g7DBTe2uYM+rf2ULOVF5d6rbBDXbxOzOP3hQK7+NjdI1h6R+9nuB/oPmLfoajabVQqgGQmWXjJApHynRhE+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\brian\\source\\repos\\Shop\\Shop.Domain\\Shop.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

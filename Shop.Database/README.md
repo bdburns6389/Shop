@@ -1,0 +1,3 @@
+### Using dotnet cli for migrations
+In order to use the cli for migrations with the database context being in a separate project than the Startup.cs, use the following command in the Shop.Database directory to specifiy the correct startup project: ```dotnet ef --startup-project ../Shop.UI migrations add init```
+Similar to above, this flag can also be used when using the ```dotnet ef database update``` command
